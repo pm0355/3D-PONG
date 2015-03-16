@@ -1,0 +1,5 @@
+readme.text
+
+This project takes a 3d-top-down take on pong. The most difficult part for me was writing the scoring system. Controls are left and right arrow keys to move left and right. The ball is hit back and forth from player to AI until one is let by and is scored in either player or opponent score to 10. There is an Ai movement script which tracks the ball location and adjusts according, each paddle has an addforce line to emulate an actual real life swing. 
+
+-pm
